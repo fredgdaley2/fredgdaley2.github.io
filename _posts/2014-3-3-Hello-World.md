@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: "Up and running thanks to Jekyll Now!"
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+[Jekyll Now](http://github.com/barryclark/jekyll-now  "Jekyll Now")
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I have tried the long route setting up Jekyll on Windows but why put myself through all that.  I can update it using [prose.io](http://prose.io  "prose.io").  Now I just have to learn some markdown and probably a few other things to maintain my blog.  Let the fun begin.
