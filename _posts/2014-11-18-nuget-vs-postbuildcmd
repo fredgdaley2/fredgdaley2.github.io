@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "Nuget post build event command for Visual Studio"
 published: true
 ---
 
