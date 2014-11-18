@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Nuget post build event command for Visual Studio
@@ -13,4 +13,3 @@ Copy and paste command:
      
 The Nuget package will be put in the bin\<current build type> folder 
 Bin\Degug or Bin\Release which ever is chosen not both at the same time.
-
